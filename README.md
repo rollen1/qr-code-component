@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-DH3W74pjOB)
 - Live Site URL: (https://rollen1.github.io/qr-code-component-main/)
 
 ### Built with
